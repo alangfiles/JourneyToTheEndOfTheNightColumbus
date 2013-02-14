@@ -1,5 +1,4 @@
 
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
@@ -13,11 +12,11 @@ body{
 #mainContainer
 {
   position:fixed;
-  background: -moz-linear-gradient(top, #040309, #222003);
-  background: -ms-linear-gradient(top, #040309, #222003);
-  background: -webkit-gradient(linear, center top, center bottom, from(#040309), to(#222003));
-  background: -webkit-linear-gradient(top, #040309, #222003);
-  background: linear-gradient(top, #040309, #222003);
+  background: -moz-linear-gradient(top, #040309, #5f5f00);
+  background: -ms-linear-gradient(top, #040309, #5f5f00);
+  background: -webkit-gradient(linear, center top, center bottom, from(#040309), to(#5f5f00));
+  background: -webkit-linear-gradient(top, #040309, #5f5f00);
+  background: linear-gradient(top, #040309, #5f5f00);
   height:100%;
   width:100%;
   text-align:center;
